@@ -3,7 +3,7 @@
 > A sleek, responsive, and animated landing page powered by Bootstrap 5, CSS, JavaScript, and AOS (Animate On Scroll).  
 > Designed for modern web experiences with timeless structure.
 
-![Nexus Screenshot](assets/screenshot.png)
+![Nexus Screenshot](/assets/screenshot.png)
 
 ---
 
