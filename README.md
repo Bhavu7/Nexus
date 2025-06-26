@@ -3,7 +3,7 @@
 > A sleek, responsive, and animated landing page powered by Bootstrap 5, CSS, JavaScript, and AOS (Animate On Scroll).  
 > Designed for modern web experiences with timeless structure.
 
-![Nexus Screenshot](/assets/screenshot.png)
+![Nexus Screenshot](assets/Screenshot.png)
 
 ---
 
@@ -38,7 +38,7 @@
 
 > Update the screenshot by placing your image as `screenshot.png` in the root folder or `/assets/images`.
 
-![Nexus Preview](assets/screenshot.png)
+![Nexus Preview](assets/Screenshot.png)
 
 ---
 
