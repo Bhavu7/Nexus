@@ -34,14 +34,6 @@
 
 ---
 
-## 📷 Screenshots
-
-> Update the screenshot by placing your image as `screenshot.png` in the root folder or `/assets/images`.
-
-![Nexus Preview](assets/Screenshot.png)
-
----
-
 ## 📦 Installation & Usage
 
 Clone the repo:
